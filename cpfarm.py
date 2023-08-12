@@ -91,9 +91,9 @@ def getGJCreatorPoint(name,accountid,passw):
 with open("string.lvl", mode="r", encoding="utf-8") as lvlStringFile:
     lvlString = lvlStringFile.read()
 
-username="CPFarming"
-accid="274"
-password="meduza65536"
+username="username"
+accid="69420"
+password="password"
 percentage="2147483647"
 
 while True:
